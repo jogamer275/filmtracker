@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8d94038-d542-465b-8e38-1a55155ff73f" name="filmtracker">
+        <fileTransfer rootFolder="/filmtracker" accessType="SFTP" host="ssh.strato.com" port="22" sshConfigId="8a1bf30d-ac76-44c2-8282-3b6edd4775d0" sshConfig="537421837.swh.strato-hosting.eu@ssh.strato.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
